@@ -1,0 +1,21 @@
+.header{
+    background-color: darkgoldenrod;
+    height: 80px;
+    
+}
+.main{
+    background-color: ghostwhite;
+    color:olivedrab;
+    height: 300px;
+    padding:100px;
+}
+.footer{
+    background-color: midnightblue;
+    color: ghostwhite;
+    height: 80px;
+}
+.header-logo{
+    font-size:40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding:10px;
+}
