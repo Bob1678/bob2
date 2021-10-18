@@ -1,0 +1,13 @@
+.header{
+    height:750px;
+    background-image: url(bobのしょっぷ.jpg);
+    background-size: cover;
+}
+.main{
+    padding: 200px;
+    background-color:gainsboro;
+}
+.footer{
+    padding: 100px;
+    background-color: aliceblue;
+}
