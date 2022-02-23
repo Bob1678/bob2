@@ -1,11 +1,11 @@
 .header{
-    height:750px;
-    background-image: url(bobのしょっぷ.jpg);
+    height:100px;
+  
     background-size: cover;
 }
 .main{
-    padding: 200px;
-    background-color:gainsboro;
+    padding: 750px;
+   
 }
 .footer{
     padding: 100px;
