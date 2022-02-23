@@ -1,7 +1,8 @@
 .header{
     height:100px;
+     background-image:url(bobのブログjpg);
     background-size: cover;
-    background-image:url(bobのブログjpg);
+   
 }
 .main{
     padding: 750px;
