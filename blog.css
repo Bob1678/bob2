@@ -1,6 +1,7 @@
 .header{
     height:100px;
     background-size: cover;
+    background-image:url(
 }
 .main{
     padding: 750px;
