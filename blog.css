@@ -1,11 +1,11 @@
 .header{
-    height:100px;
+    height:750px;
      background-image:url(https://github.com/Bob1678/bob2/blob/main/bob%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0.jpg?raw=true);
     background-size: cover;
    
 }
 .main{
-    padding: 750px;
+    padding:200px;
     background-color:gainsboro;
 }
 .footer{
