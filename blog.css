@@ -1,10 +1,9 @@
 .header{
-    height:750px;
-    background-image: url(bobのブログ.jpg);
+    height:100px;
     background-size: cover;
 }
 .main{
-    padding: 200px;
+    padding: 750px;
     background-color:gainsboro;
 }
 .footer{
